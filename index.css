@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin-left: 20px;
+  width: 90px;
+  height: 700px;
+  -webkit-transition: all 700ms ease-in;
+}
+.name {
+  margin-top: -80px;
+  margin-left: 20px;
+  transition: all 700ms ease-in;
+  position: absolute;
+  opacity: 0;
+  color: white;
+}
+.card img {
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.active {
+  width: 800px;
+}
+.active .name {
+  opacity: 1;
+}
