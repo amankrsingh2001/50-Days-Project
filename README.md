@@ -1,1 +1,1 @@
-https://amankrsingh2001.github.io/50-Days-Project/expanding%20Card/index.html
+1. [Expanding Card](https://amankrsingh2001.github.io/50-Days-Project/expanding%20Card/index.html)
