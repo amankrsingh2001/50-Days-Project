@@ -5,4 +5,5 @@
 1. [Ps5 vs Xbox ](https://amankrsingh2001.github.io/50-Days-Project/Xbox%20vs%20ps5/index.html)
 1. [Auto Slider ](https://amankrsingh2001.github.io/50-Days-Project/autoSlider/index.html)
 1. [Base Changer ](https://amankrsingh2001.github.io/50-Days-Project/baseChagner/index.html)
-1. [Base Changer ](https://amankrsingh2001.github.io/50-Days-Project/baseChagner/index.html)
+1. [Progress](https://amankrsingh2001.github.io/50-Days-Project/progress/index.html)
+1. [Score Keeper](https://amankrsingh2001.github.io/50-Days-Project/score%20keeper/index.html)
