@@ -1,0 +1,91 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+  
+}
+.absu{
+    height: 100vh;
+    width: 100%;
+   background-color: rgba(87, 84, 236, 0.776);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+ 
+
+}
+.absu2{
+    height: 100vh;
+    width: 100%;
+   background-color: rgba(50, 50, 51, 0.924);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+}
+.xbox{
+    height: 100vh;
+    width: 50%;
+    background-image:url(https://50projects50days.com/projects/split-landing-page/xbox.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    transition: width 1.2s;
+}
+
+.ps5{
+
+    height: 100vh;
+    width: 50%;
+    background-image:url(https://50projects50days.com/projects/split-landing-page/ps.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    opacity: 0.5;
+}
+h1{
+
+    margin: 4px;
+    padding: 10px;
+    color: white;
+   font-weight: bolder;
+}
+.ps5 button{
+ width: 180px;
+ outline: none;
+ padding: 6px;
+ border: none;
+ height: 65px;
+border: 2px solid white;
+color: white;
+background-color: rgba(87, 84, 236, 0.776);
+}
+
+.xbox button{
+    width: 180px;
+    outline: none;
+    padding: 6px;
+    border: none;
+    height: 65px;
+   border: 2px solid white;
+   color: white;
+   background-color: rgba(50, 50, 51, 0.924);
+   }
+.xbox:hover{
+    width: 150%;
+    
+}
+.ps5:hover{
+    width: 190%;
+}

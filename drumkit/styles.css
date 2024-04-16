@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+  width: 100%;
+  background-image: url(background.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.piano {
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  margin: 10px 4px;
+  padding: 10px;
+  text-align: center;
+}
+.audio{
+    display: none;
+}
